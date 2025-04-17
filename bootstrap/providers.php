@@ -1,3 +1,5 @@
-<?php declare(strict_types=1);
-/*
- * This file is part of PHPUni
+<?php
+
+return [
+    App\Providers\AppServiceProvider::class,
+];
